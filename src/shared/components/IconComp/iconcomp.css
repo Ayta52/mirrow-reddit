@@ -1,0 +1,29 @@
+svg {
+  width: 100%;
+  height: 100%;
+}
+
+@media all and (min-width: 320px) and (max-width: 1023px) {
+  .m12 {
+    width: 12px;
+  }
+  .t14 {
+    width: 14px;
+  }
+}
+@media all and (min-width: 1024px) and (max-width: 1539px) {
+  .t14 {
+    width: 14px;
+  }
+  .d14 {
+    width: 14px;
+  }
+}
+@media all and (min-width: 1540px) {
+  .t14 {
+    width: 14px;
+  }
+  .d14 {
+    width: 14px;
+  }
+}
